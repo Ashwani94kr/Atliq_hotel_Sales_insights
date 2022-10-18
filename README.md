@@ -40,6 +40,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Their is opportunity of gaining 48 %  more revenue against vacant room.
 
 ## project certificate of appreciation
-[CH-1-4-13951.pdf](https://github.com/Ashwani94kr/Atliq_hotel_Sales_insite/files/9813746/CH-1-4-13951.pdf)
+
+![cr](https://user-images.githubusercontent.com/110016087/196504927-11de262e-e89f-43d2-a56a-250924dd10fb.png)
 
 
