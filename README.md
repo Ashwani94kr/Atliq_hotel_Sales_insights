@@ -38,3 +38,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * About 78 % of total booking has 1 or 2 guest check-in refer to occupancy view.
 * Around 65 thousand plus rooms are left vacant in total time period refer to financial view.
 * Their is opportunity of gaining 48 %  more revenue against vacant room.
+
+## project certificate of appreciation
+[CH-1-4-13951.pdf](https://github.com/Ashwani94kr/Atliq_hotel_Sales_insite/files/9813746/CH-1-4-13951.pdf)
+
+
