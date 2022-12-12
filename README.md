@@ -1,4 +1,4 @@
-# Atliq_hotel_Sales_insite
+# Atliq_hotel_Sales_insight
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
 # Problem statement
