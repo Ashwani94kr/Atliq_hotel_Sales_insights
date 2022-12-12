@@ -20,13 +20,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Data Model](https://user-images.githubusercontent.com/110016087/196462796-ad2ef9e4-9368-48d5-a85e-b6e6af94dcfa.png)
 
 ## Overall View 
-![Overall View](https://user-images.githubusercontent.com/110016087/196463259-c6fd88c8-43ab-447b-aecf-935b64118330.png)
+![1](https://user-images.githubusercontent.com/110016087/206991876-dcf54438-4e08-46bc-9990-26ba57e04825.png)
 
 ## Occupancy View
-![occupancy status](https://user-images.githubusercontent.com/110016087/196463658-b5528440-5934-4dfd-b26b-0fc503c29ff7.png)
+![2](https://user-images.githubusercontent.com/110016087/206991956-25995b76-218d-4e98-ba67-6357c25a2024.png)
 
 ## Financial View
-![F1](https://user-images.githubusercontent.com/110016087/196463910-b353c237-6f4d-4c25-87ba-4681c9c77e77.png)
+![3](https://user-images.githubusercontent.com/110016087/206992161-dd2cbe9c-d013-4c45-bdb1-85324a688e1d.png)
 
 # Project Insight
 * After Analysis of Overall view Mumbai Show highest earn Revenue $ were Delhi has lowest
